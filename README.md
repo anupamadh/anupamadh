@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- ![Anupama's GitHub stats]
  <img src="https://github-readme-stats.vercel.app/api?username=anupamadh&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
