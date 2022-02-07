@@ -1,4 +1,11 @@
-### Hi there friends👋
+### Hi there👋
+
+        - I'm Anupama Dhir, a Software Tester and Automation enthusiast
+        - 🌱 I’m currently learning DevOps
+        - 👯 I’m looking to collaborate on Java projects
+        - 😄 Pronouns: She/Her
+        - ⚡ Fun fact: Enjoy Yoga and keeping fit
+        
 
 <!--
 **anupamadh/anupamadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
