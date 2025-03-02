@@ -1,8 +1,8 @@
 ### Hi there👋
 
         - I'm Anupama Dhir, a Software Tester and Automation enthusiast
-        - 🌱 I’m currently learning DevOps
-        - 👯 I’m looking to collaborate on Java projects
+        - 🌱 I'm an AWS Certified Solutions Architect - Associate 
+        - 👯 I’m looking to work on Cloud Projects as a Solutions Architect
         - 😄 Pronouns: She/Her
         - ⚡ Fun fact: Enjoy Yoga and keeping fit
         
